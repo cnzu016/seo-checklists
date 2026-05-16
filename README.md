@@ -1,5 +1,3 @@
-# seo-checklists
-A complete collection of SEO checklists, digital marketing guides, on-page SEO tips, technical SEO strategies, keyword research methods, and Google ranking techniques for beginners and businesses in 2026.
 # Complete SEO Checklist for 2026
 
 Search Engine Optimization (SEO) is one of the most important digital marketing strategies for growing your website traffic, improving Google rankings, and increasing online visibility. This SEO checklist will help beginners and businesses optimize their websites step by step.
@@ -156,3 +154,4 @@ About the Author
 Sanju Yadav is a digital marketing and SEO enthusiast focused on helping businesses grow online through SEO, content marketing, and digital strategies.
 
 Website: https://sanjuyadav.com.np/
+
